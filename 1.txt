@@ -1,7 +1,7 @@
 hello world
 how are you
-<<<<<<< HEAD
+
 what are you doing right now
-=======
+
 I am not doing anything interesting
->>>>>>> 2eec0339b6e290933fb70e782e1fe1c0441da177
+
